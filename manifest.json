@@ -1,0 +1,306 @@
+{
+  "project": "team-comics",
+  "archived_at": "2026-09-16T09:14:48.192889+09:00",
+  "scope": "이 대화에 첨부·생성되어 /mnt/data에서 실제 확인한 이미지 및 대화에 제공된 원고",
+  "storage_note": "대화 작업 공간에서 만든 아카이브. 사용자 PC 로컬 폴더나 GitHub에 저장·업로드했다는 의미가 아님.",
+  "image_count": 24,
+  "episode_count": 14,
+  "original_images_unchanged": true,
+  "duplicate_sources_omitted": [
+    {
+      "excluded_source": "imagegen.png",
+      "same_as_source": "마지막_쿠키로_가까워진_우리.png",
+      "reason": "파일 SHA-256 동일. 이름 있는 원본 하나만 보존."
+    },
+    {
+      "excluded_source": "image.png",
+      "same_as_source": "a_clean_cohesive_cartoon_comic_illustration_in_a.png",
+      "reason": "RGB 픽셀 동일. 사용자가 다시 첨부한 RGBA 사본 대신 생성 RGB 원본 보존."
+    }
+  ],
+  "other_exclusions": [
+    {
+      "source": "여권사진.jpg",
+      "reason": "생성 결과물이 아닌 사용자의 실사 원본 사진이므로 결과물 패키지에서 제외. 원본 파일은 삭제하지 않음."
+    }
+  ],
+  "files": [
+    {
+      "title": "퇴근 1등",
+      "category": "episode",
+      "path": "episodes/001-퇴근-1등/comic.png",
+      "source_filename": "퇴근_직전_회의_대소동.png",
+      "bytes": 2883278,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "5bcf7b2100b214a0d8bda4bb652c397269245e52c68d09bbdecb3a6438a3f0ff",
+      "episode": "001",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "아무거나 먹자는 사람들",
+      "category": "episode",
+      "path": "episodes/002-아무거나-먹자는-사람들/comic.png",
+      "source_filename": "점심_메뉴_회의와_고기_결말.png",
+      "bytes": 2790419,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "e0eb3fcffb4debaeaad63ffdd2e4a866fe23893c8fa36fb842516b4062fc184d",
+      "episode": "002",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "단체사진 대작전",
+      "category": "episode",
+      "path": "episodes/003-단체사진-대작전/comic.png",
+      "source_filename": "오피스_단체사진_소동.png",
+      "bytes": 2900376,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "1edd114ce89a117a201f7bd8b8782dd2c5a45fff2e865e9a2fa7c96bd4c30a94",
+      "episode": "003",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "마지막 쿠키 사건",
+      "category": "episode",
+      "path": "episodes/004-마지막-쿠키-사건/comic.png",
+      "source_filename": "마지막_쿠키로_가까워진_우리.png",
+      "bytes": 2563901,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "e25aec76cdf3abee2a9187184f88d545d56ece2b3533d2efa61e24cfca04f201",
+      "episode": "004",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "칭찬 스티커의 위력",
+      "category": "episode",
+      "path": "episodes/005-칭찬-스티커의-위력/comic.png",
+      "source_filename": "작은_별이_만드는_좋은_하루.png",
+      "bytes": 2722612,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "008bf07ee3d0ae6796380888c198f69b8f3866656006bce490c39f0bc46cf9f9",
+      "episode": "005",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "오늘 회의, 사람은 왜 왔죠?",
+      "category": "episode",
+      "path": "episodes/006-오늘-회의-사람은-왜-왔죠/comic.png",
+      "source_filename": "a_colorful_korean_comic_webtoon_style_illustrati.png",
+      "bytes": 2197269,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "a23ecdab1708da5fabb8025772386a5403f09ff9bc2fc230cb31f193bfa5112c",
+      "episode": "006",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "진짜 리더가 드러나는 순간",
+      "category": "episode",
+      "path": "episodes/007-진짜-리더가-드러나는-순간/comic.png",
+      "source_filename": "진짜_리더가_드러나는_순간.png",
+      "bytes": 2727053,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "61a454d824f847602e088d5c2a50a7b2528ae7451914e9366dcf8270a281a868",
+      "episode": "007",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "복장의 최소한의 선",
+      "category": "episode",
+      "path": "episodes/008-복장의-최소한의-선/comic.png",
+      "source_filename": "복장의_최소한의_선.png",
+      "bytes": 2702002,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "2aa3495cb384d34ff6758908e21b8c19922d313ff3011dd739016e77263209bd",
+      "episode": "008",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "하림의 장점 세 가지",
+      "category": "episode",
+      "path": "episodes/009-하림의-장점-세-가지/comic.png",
+      "source_filename": "하림의_장점_세_가지.png",
+      "bytes": 2527827,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "5536be8bad342b6ecbd568c978709357311ff9e14193cc12acd34268295a364e",
+      "episode": "009",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "그를 부르는 주문",
+      "category": "episode",
+      "path": "episodes/010-그를-부르는-주문/comic.png",
+      "source_filename": "집중하는_동료를_부르는_주문.png",
+      "bytes": 2646411,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "8c634d8d6e74c6771c215f19c4a4920007181ea75441ff658cf44f5fa01cf8eb",
+      "episode": "010",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "수경 씨의 또 다른 직장",
+      "category": "episode",
+      "path": "episodes/011-수경-씨의-또-다른-직장/comic.png",
+      "source_filename": "수경_씨의_또_다른_직장.png",
+      "bytes": 2663315,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "3aba99da5230ce99fafd73ccbac4c9d65c42bd938d0eb31d128d83afc1436baa",
+      "episode": "011",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "답장이 빨라지는 공지",
+      "category": "episode",
+      "path": "episodes/012-답장이-빨라지는-공지/comic.png",
+      "source_filename": "답장이_빨라지는_공지_4컷_만화.png",
+      "bytes": 2531709,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "8cc239ff967c0ed4c0088ce589d7dfc28ac42d91807b8f741482a1b8b2f6eb7b",
+      "episode": "012",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "철저한 익명 보장",
+      "category": "episode",
+      "path": "episodes/013-철저한-익명-보장/comic.png",
+      "source_filename": "익명_의견함의_뜻밖의_진실.png",
+      "bytes": 2655561,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "10b81ae747eeefd35202a8ef526f96697fb87fa34480ef2545485f791fa487d0",
+      "episode": "013",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "질문부터 끝까지",
+      "category": "episode",
+      "path": "episodes/014-질문부터-끝까지/comic.png",
+      "source_filename": "케이블_해프닝_진짜_구조_요청.png",
+      "bytes": 2531028,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "1ba9f59eb58fd0afe81c54bae9903cf675d4b478bab76f45a306c7b8bb8cd1ed",
+      "episode": "014",
+      "version": "latest_in_conversation"
+    },
+    {
+      "title": "단체사진 대작전 · 이전 버전",
+      "category": "episode_version",
+      "path": "episodes/003-단체사진-대작전/versions/comic-v1.png",
+      "source_filename": "단체사진_대작전_함께라서_특별한_하루.png",
+      "bytes": 2668595,
+      "width": 1448,
+      "height": 1086,
+      "sha256": "a81cdc9ab43f0dc7dbd9fc904be18878a225bfe99c6e90cfc2429713a997ac78",
+      "episode": "003",
+      "version": "v1"
+    },
+    {
+      "title": "다섯 캐릭터 · 이름 반영",
+      "category": "reference",
+      "path": "settings/references/team-lineup.png",
+      "source_filename": "다섯_캐릭터의_유쾌한_팀_초상화.png",
+      "bytes": 2159196,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "cd9b1c69edfe91a359a982af858e851c41af48c90bdba5790c24eadc8237683a",
+      "reference_status": "current"
+    },
+    {
+      "title": "다섯 캐릭터 · 이름 변경 전",
+      "category": "reference",
+      "path": "settings/references/team-lineup-before-names.png",
+      "source_filename": "a_clean_cohesive_cartoon_comic_illustration_in_a.png",
+      "bytes": 1965122,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b6c7c4a3bfc6ab0bd6c3ff7c46ae69a52caf242bdbcb867a17aaf139c5d97647",
+      "reference_status": "early"
+    },
+    {
+      "title": "팀장 · 잉크 초상",
+      "category": "reference",
+      "path": "settings/references/team-leader-portrait.png",
+      "source_filename": "흑백_잉크_초상화의_미소_짓는_남성.png",
+      "bytes": 2126191,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "82746cc1d9d3ae1500442f9de8d2266df4b5d8dfd0a4f16411ec2fb0708bdb89",
+      "reference_status": "early"
+    },
+    {
+      "title": "보현 · 잉크 초상",
+      "category": "reference",
+      "path": "settings/references/bohyeon-portrait.png",
+      "source_filename": "흑백_잉크로_그린_미소의_여성_초상.png",
+      "bytes": 2211051,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "00b3ff2fb5e73023c33150a819273f67a48a7609cac57f31336ecdb92f68c46b",
+      "reference_status": "early"
+    },
+    {
+      "title": "수경 · 잉크 초상",
+      "category": "reference",
+      "path": "settings/references/sugyeong-portrait.png",
+      "source_filename": "미소_짓는_긴_생머리_여성_초상.png",
+      "bytes": 2120990,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "a68e95b872c0eaef8ff2a05f0e9424594dd96ccfc13d91a943b53462a406219e",
+      "reference_status": "early"
+    },
+    {
+      "title": "하림 · 잉크 초상",
+      "category": "reference",
+      "path": "settings/references/harim-portrait.png",
+      "source_filename": "안경_쓴_여성의_잉크_초상화.png",
+      "bytes": 2108803,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "eeba169d7b46c26c0847f54e6e28c9242cef9b732aef5608759ab6da29ea4069",
+      "reference_status": "early"
+    },
+    {
+      "title": "나와 직업 · 최초 캐리커처",
+      "category": "reference",
+      "path": "settings/references/self-job-caricature.png",
+      "source_filename": "디지털_트윈_엔지니어의_스마트_워크스페이스.png",
+      "bytes": 2588011,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "e6ca559de17de7c67daed6701bb122db947df39746c1e0881071a91c33e8a637",
+      "reference_status": "early"
+    },
+    {
+      "title": "퇴근하고 싶다 · 초기 3컷",
+      "category": "archive",
+      "path": "archive/001-퇴근하고-싶다/comic.png",
+      "source_filename": "퇴근을_꿈꾸는_도시의_두_사람.png",
+      "bytes": 2992187,
+      "width": 2172,
+      "height": 724,
+      "sha256": "ec319c9c76672c150af7af12bc691c7b1577e7eaf1266aa12f355aae81a38ded"
+    },
+    {
+      "title": "유쾌한 퇴근 회의 · 초기 4컷",
+      "category": "archive",
+      "path": "archive/002-유쾌한-퇴근-회의/comic.png",
+      "source_filename": "유쾌한_퇴근_회의_만화.png",
+      "bytes": 2958628,
+      "width": 2172,
+      "height": 724,
+      "sha256": "528421f29b4ac8367426a34aa6b7bc7e354f050b4bfa8f201fb34c163d45427e"
+    }
+  ]
+}
