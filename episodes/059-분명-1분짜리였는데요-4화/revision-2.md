@@ -1,0 +1,5 @@
+# 1장 재수정
+
+영상 속 인물과 실제 대화하는 인물의 구도를 명확하게 분리합니다. 중간 결과는 `versions/comic-v2.png`에 보존합니다.
+
+Redraw ONLY BOTTOM LEFT panel with a clear separation between real observers and the computer screen. The last edit incorrectly placed the curly man's front-facing face INSIDE the monitor. Correct composition: TOP HALF of bottom-left panel contains three REAL people ABOVE the monitor: left no-glasses center-parted man with tie, center curly-haired round-glasses man in dark polo, right laughing wavy-haired woman in cream sweater. Keep speech at top: leader '그런데 저는 옆모습만 계속 나오네요.' with tail to left leader; curly man '저는 뒷모습인데요.' with tail to center curly man. LOWER HALF contains SMALLER desk monitor; INSIDE screen show only two video thumbnails: leader side profile on left and CURLY MAN BACK VIEW on right, plus edit timeline underneath. No front-facing real man inside monitor. Move/resize monitor DOWN so real people's faces are clearly above its top bezel in the actual office background. Do not change any other panel, title, dialogue, or page format. Return full four-panel comic.

@@ -1,0 +1,5 @@
+# 3장 수정
+
+말풍선 연결, 인물별 복장, 마지막 컷의 하림 중복을 수정합니다. 원본은 `versions/comic-03-v1.png`에 보존합니다.
+
+Targeted correction of this four-panel Korean comic. Maintain all words exactly and most artwork. TOP LEFT: balloon '들어옵니다. 연결만 된 건지, 실제 조작도 반영되는지 확인해볼게요.' is spoken by CURLY-HAIRED GLASSES man center, not leader at left. Redirect tail to curly man's head. Throughout all panels remove neckties from curly-haired glasses man AND tied-back-haired GLASSES WOMAN Harim. ONLY center-parted NO-GLASSES male leader wears gray tie; curly man wears dark polo; Harim wears dark collared shirt with no tie. BOTTOM RIGHT: Harim is duplicated. KEEP large foreground Harim at LEFT with glasses speaking. REMOVE small duplicate glasses woman at FAR RIGHT and replace with office background. Exactly FIVE real people in this panel: foreground Harim, background leader, curly man, wavy-haired cream woman, bangs mint woman. Preserve five tiny people inside recorded phone screen. Do not add sixth person, extra hands, narrator boxes. Return whole comic.
