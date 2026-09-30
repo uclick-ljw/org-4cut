@@ -1,7 +1,7 @@
 # 팀 만화 작업 안내
 
-- 제작 전 `settings/characters.md`, `settings/style.md`를 읽고 `settings/references/team-lineup.png`와 관련 기존 만화를 확인한다.
-- 등장인물은 팀장·나·보현·수경·하림이다. 인물 사이 대사는 자연스러운 존댓말을 사용하고 외형을 일관되게 유지한다.
+- 제작 전 `settings/characters.md`, `settings/style.md`를 읽고 `settings/references/team-lineup.png`와 관련 기존 만화를 확인한다. 동현이 등장하면 `settings/references/donghyeon-character-sheet.png`도 확인한다.
+- 등록된 등장인물은 팀장·나·보현·수경·하림·동현이다. 회차별 출연자는 원고를 따르며, 인물 사이 대사는 자연스러운 존댓말을 사용하고 외형을 일관되게 유지한다. 동현의 성격·직급·담당 업무는 사용자 설정이 있을 때 반영한다.
 - 새 에피소드는 실제 폴더 목록의 마지막 번호 다음으로 저장해 번호 중복을 피한다. 최초 복원본은 001~014이다.
 - 새 에피소드는 `episodes/번호-제목/`에 `story.md`와 `comic.png`로 저장한다. 사용자 지시가 없으면 최대 4컷을 기본으로 한다.
 - 기존 그림을 수정할 때는 이전 파일을 해당 에피소드의 `versions/`에 보존한다. 기존 원고와 이미지 속 대사가 다를 수 있으므로 임의로 맞춰 쓰지 않는다.
