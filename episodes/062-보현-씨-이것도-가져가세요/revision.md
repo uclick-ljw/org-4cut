@@ -1,0 +1,5 @@
+# 3장 수정 기록
+
+내장 이미지 생성 도구로 대사의 읽는 순서와 마지막 장면의 인물 중복을 수정합니다. 수정 전 그림은 versions/comic-03-v1.png에 보존합니다.
+
+Make only TWO small corrections. BOTTOM LEFT panel: dialogue reading order must be Bohyeon first, leader second. Keep exact texts. Put cream-wavy-haired center woman's bubble '이 정도면 송별이 아니라 배송인데요.' near TOP CENTER with tail clearly to her mouth. Put leader's '배송지는 어디로 해드릴까요?' bubble lower at LEFT under first bubble, tail to no-glasses man's mouth. Avoid covering faces. BOTTOM RIGHT panel: there are five distant walkers PLUS extra foreground carrier (six). Foreground carrier is curly-haired narrator with box. Keep his foreground cropped shoulder/box and the envelope closeup. REMOVE the distant curly-haired man (SECOND walker from LEFT). Leave exactly FOUR distant walkers: center-part leader, wavy-haired Bohyeon, bangs woman, tied-hair glasses woman; narrator is only represented by foreground shoulder carrying box. Keep exact letter '함께해서 즐거웠어요.' and rest of artwork. All other panels, hands, faces, title, text unchanged. Return whole page.
